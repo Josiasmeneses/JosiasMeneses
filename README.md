@@ -5,7 +5,7 @@
 
 ![Josias GitHub stats](https://github-readme-stats.vercel.app/api?username=JosiasMeneses&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosiasMeneses&layout=compact)
+
 
 ## Tecnologias do Dia a Dia 🌐
 
